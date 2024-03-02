@@ -106,6 +106,7 @@ h2 {
     button {
         width: 70px;
         margin: 0;
+        text-align: center;
     }
 
     span {
