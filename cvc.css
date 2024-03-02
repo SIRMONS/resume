@@ -106,6 +106,8 @@ span {
 
     button {
         width: 70px;
+        margine: 0;
+        text-align: center;
     }
 
     p {
